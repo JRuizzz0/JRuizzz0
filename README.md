@@ -1,8 +1,8 @@
 # Jaime
 Repositorio general de programación :smile:.
-
+Estudiante de programacion 😎 :
 Repositorios:
-Repositorio con  apuntes generales de programacion en Java :grey_exclamation: :
+**Repositorio con  apuntes generales de programacion en Java** :grey_exclamation: :
 [Programacion Apuntes](https://github.com/JRuizzz0/programacion_apuntes.git)
 
 Repositorios de ejercicios :computer: :
