@@ -1,15 +1,29 @@
-# Jaime
-Repositorio general de programación :smile:. <br>
-Estudiante de programacion 😎. <br>
-Repositorios: <br>
-**Repositorio con  apuntes generales de programacion en Java** :grey_exclamation: :
-[Programacion Apuntes](https://github.com/JRuizzz0/programacion_apuntes.git)<br>
+# ¡Hola! Soy Jaime 👋
 
-Repositorios de ejercicios :computer: :
-Repositorios con numerosos ejercicios hechos en Java con paciencia :grey_exclamation:<br>
-Repositorio con ejercios faciles ❗:
-[Ejercicios repaso](https://github.com/JRuizzz0/Ejercicios.git) <br>
-Repositorio con ejercicios de Euler ❗:
-[Ejercicios de Euler](https://github.com/JRuizzz0/Euler.git)<br>
-Repositorio de ejercicios para corregir codigo ❗:
-[Reparacion de codigo](https://github.com/JRuizzz0/ProjectFail.git)<br>
+**Estudiante de Desarrollo de Aplicaciones Web (DAW) | Apasionado por el Desarrollo y la Inteligencia Artificial**
+
+Soy un desarrollador creativo, resolutivo y trabajador. Actualmente me centro en la creación de aplicaciones web completas e intermodulares, preparándome al mismo tiempo para dar el salto universitario hacia el Data Science y la Inteligencia Artificial. Me gusta enfrentar problemas técnicos complejos y buscar soluciones eficientes.
+
+### 💻 Stack Tecnológico
+
+*   **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+*   **Backend:** Node.js, Express, Java, PHP
+*   **Bases de Datos:** PostgreSQL, MongoDB
+*   **Herramientas y DevOps:** Git
+
+### 📊 Dashboard de Actividad
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JRuizzz0&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Jaime" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRuizzz0&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+</p>
+
+### 🚀 Proyectos Destacados
+
+*   **[GreenGo](https://github.com/JRuizzz0/enlace-al-repo)**: Proyecto intermodular de software. *(Añade aquí una breve descripción de tu rol en el equipo y qué tecnologías implementaste).*
+*   *(Añade otro proyecto destacable de tus 36 repositorios)*
+
+### 📬 Conecta conmigo
+
+*   💼 [LinkedIn](https://www.linkedin.com/in/jaime-ruiz-a452123ab/)
+*   📍 Madrid, España
