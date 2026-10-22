@@ -22,7 +22,7 @@ Soy un desarrollador creativo, resolutivo y trabajador. Actualmente me centro en
 
 *   **[GreenGo](https://github.com/JRuizzz0/enlace-al-repo)**: Proyecto intermodular de software. *(Añade aquí una breve descripción de tu rol en el equipo y qué tecnologías implementaste).*
 *   **[Finanzas-api](https://github.com/JRuizzz0/finanzas-api)**
-*   **[Gestor Ingresos]([https://github.com/JRuizzz0/finanzas-api](https://github.com/JRuizzz0/GestorIngresos.git))**
+*   **[Gestor-Ingresos](https://github.com/JRuizzz0/GestorIngresos.git)**
 
 ### 📬 Conecta conmigo
 
